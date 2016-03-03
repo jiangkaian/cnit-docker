@@ -30,4 +30,5 @@ docker run -d -p 3375:2375 -v $(pwd)/cluster:/tmp/cluster swarm manage file:///t
 docker run --rm -v $(pwd)/cluster:/tmp/cluster swarm list file:///tmp/cluster
 
 echo  "create swarm cluster completed!"
+
 echo ""
