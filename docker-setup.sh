@@ -50,4 +50,5 @@ echo "--------docker setup successed!----------"
 echo ""
 docker -v
 echo "Complete!"
+echo ""
 
